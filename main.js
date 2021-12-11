@@ -13,4 +13,10 @@ function draw(){
     noFill();
     stroke('#FF0000');
     rect(30,60,450,350);
+    fill("#F0F757");
+    text("Cat",320,120);
+    noFill();
+    stroke("#F0757");
+    rect(300,90,270,320);
+
 }
